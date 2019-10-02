@@ -1,5 +1,3 @@
 # README file
 
-Pies:
-Apple
-Berry
+PDL Class - GIT
